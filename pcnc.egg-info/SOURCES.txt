@@ -1,7 +1,9 @@
 setup.py
 pcnc/__init__.py
+pcnc/text.py
 pcnc.egg-info/PKG-INFO
 pcnc.egg-info/SOURCES.txt
 pcnc.egg-info/dependency_links.txt
 pcnc.egg-info/not-zip-safe
+pcnc.egg-info/requires.txt
 pcnc.egg-info/top_level.txt
