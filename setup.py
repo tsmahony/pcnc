@@ -15,7 +15,7 @@ setup(name='funniest',
       allows for parameter space exploration of the geometric properties\
       of a unit cell, to design for a particular mode at a target frequency.\
       It will find then look for the optimal bandgap inside the parameter \
-      space. It can also be used to simulate the full bandstructure. \'
+      space. It can also be used to simulate the full bandstructure.',
       classifiers=[
         'Development Status :: 1 - Planning',
         'License :: OSI Approved :: MIT License',
