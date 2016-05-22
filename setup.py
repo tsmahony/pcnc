@@ -29,7 +29,7 @@ setup(name='funniest',
       license='MIT',
       packages=['pcnc'],
       install_requires=[
-          'markdown',
+          'subprocess, numpy, math, pickle, time, os',
       ],
       include_package_data=True,
       zip_safe=False)

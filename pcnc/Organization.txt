@@ -1,0 +1,46 @@
+Functions I currently use:
+
+Calculating Band edges:
+- make_ctl_file
+- read_out_file
+looping over all parameters
+
+Calculating band Gaps:
+- make_ctl_file
+- read_out_file
+- calc_bandedge_and_bandgap
+
+Calculating Band Structures:
+- make_ctl_file
+- read_out_file
+- calc_bandedge_and_bandgap
+- run_simulation
+- plot_bandstructure
+
+Finding optimum bandgaps
+
+Finding bandgedges
+
+---------------------------
+Functions I want to add:
+
+MPB functions
+- Plot_modes
+- Plot_Epsilon
+
+Lumerical
+- Construct Cavity File
+- Run r1 sweep
+- Run Holes sweep
+- Calculate Q and Mode Volume
+- Optimize for Q/V
+- Optimize for Q
+
+
+So Basic Functions that make sense to make:
+
+make_ctl_file(latticeConstant,xRadius,yRadius,width,startingk,endingk,numkpoints,numbands,symmetry)
+	- Write file
+read_out_file
+calc_bandedge_and_bandgap
+run_simulation
